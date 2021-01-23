@@ -1,0 +1,61 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.flex-container {
+    display: flex;
+}
+.block {
+    display: block;
+    height: 100px;
+}
+.logo {
+    width: 23;
+    padding: 1;
+    text-align: center;
+}
+nav {
+    width: 73;
+    padding: 1;
+}
+button {
+    font-family: 'Lulo Clean', serif;
+    color: #fffaef;
+    background-color: #b9c16a;
+    border: none;
+    border-radius: 15px;
+    width: 300px;
+    height: 50px;
+}
+ul {
+    width: 0;
+    margin-left: auto;
+}
+.heroimg {
+    height: 80px;
+    float: left;
+}
+p {
+    width: 550;
+    margin-bottom: 25px;
+    font-family: 'Lora', serif;
+    font-weight: 30;
+}
+footer {
+    display: inline-block;
+    background-color: #edcece;
+}
+    ul {
+        display: block;
+    }
+        li {
+            font-family: 'Lora', serif;
+            font-weight: 30;
+            margin-top: 40px;
+        }
+html {
+    background-color: #fffaef;
+}
+.flex-container {
+    justify-content: flex-start;
+}
